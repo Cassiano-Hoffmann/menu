@@ -2,6 +2,7 @@
 Este é um repositório contendo um exemplo simples de um menu lateral que pode ser aberto e fechado, implementado utilizando HTML5 e CSS3. O menu lateral é uma opção popular para designs responsivos em aplicações web, proporcionando uma navegação fácil e intuitiva.
 
 # Imagem
+![Menu](https://github.com/Cassiano-Hoffmann/menu/assets/117099774/5b56a7cf-cdb0-42b9-a896-ec35c142c2c1)
 
 # Como usar
 Clone o repositório para o seu ambiente de desenvolvimento local:
